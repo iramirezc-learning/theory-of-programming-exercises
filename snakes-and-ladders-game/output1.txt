@@ -1,0 +1,2 @@
+Number of Moves required = 3
+1 6 98 100 
